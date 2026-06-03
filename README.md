@@ -33,6 +33,4 @@ Built as a group project; personally responsible for Excel dashboards.
 - Cleaned raw data — handled nulls, mixed dates, inconsistent fields
 - Collaborated with  teammates on SQL, Power BI, and Tableau
 
-- 
-
-- 
+   
